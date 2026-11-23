@@ -81,3 +81,21 @@ Proje kapsamında aşağıdaki işlemler test edilmiştir:
 ---
 
 *NOVA FITNESS CLUB — Güçlü Bir Başlangıç!* 💪
+
+## 📸 Projeden Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](Ekran%20görüntüsü%202026-11-23%20112604.png)
+
+### Eğitim Detayları
+![Eğitim Detayları](Ekran%20görüntüsü%202026-11-23%20112638.png)
+
+### Antrenörlerimiz
+![Antrenörlerimiz](Ekran%20görüntüsü%202026-11-23%20112730.png)
+
+### Tesis Olanakları
+![Tesis Olanakları](Ekran%20görüntüsü%202026-11-23%20112800.png)
+
+### Üyelik Paketleri
+![Üyelik Paketleri](Ekran%20görüntüsü%202026-11-23%20112820.png)
+
